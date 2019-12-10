@@ -1,0 +1,31 @@
+Script started on Tue 09 Apr 2019 11:18:05 AM PDT
+]0;cs1c@cs1c-VirtualBox ~/Desktop/hw#11[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/hw#11 $[00m date
+Tue Apr  9 11:18:06 PDT 2019
+]0;cs1c@cs1c-VirtualBox ~/Desktop/hw#11[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/hw#11 $[00m ls -l
+total 16
+-rw-rw-r-- 1 cs1c cs1c 9321 Apr  9 11:12 hw11.cpp
+-rw-rw-r-- 1 cs1c cs1c    0 Apr  9 11:18 hw11.scr
+-rw-rw-r-- 1 cs1c cs1c  216 Apr  7 08:35 Makefile
+]0;cs1c@cs1c-VirtualBox ~/Desktop/hw#11[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/hw#11 $[00m make all
+g++ -g hw11.cpp -o hw11
+]0;cs1c@cs1c-VirtualBox ~/Desktop/hw#11[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/hw#11 $[00m ls -l
+total 72
+-rwxrwxr-x 1 cs1c cs1c 55352 Apr  9 11:18 [0m[01;32mhw11[0m
+-rw-rw-r-- 1 cs1c cs1c  9321 Apr  9 11:12 hw11.cpp
+-rw-rw-r-- 1 cs1c cs1c     0 Apr  9 11:18 hw11.scr
+-rw-rw-r-- 1 cs1c cs1c   216 Apr  7 08:35 Makefile
+]0;cs1c@cs1c-VirtualBox ~/Desktop/hw#11[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/hw#11 $[00m ./hw11
+
+************************************** 
+*           Running HW11             * 
+*      Programmed by First Last      * 
+*      CS1C Date & Time              * 
+************************************** 
+
+1 2 3 4 5 6 7 8 9 
+9 8 7 6 5 4 3 2 1 
+6 7 8 9 5 4 3 2 1 
+]0;cs1c@cs1c-VirtualBox ~/Desktop/hw#11[01;32mcs1c@cs1c-VirtualBox[00m [01;34m~/Desktop/hw#11 $[00m exit
+exit
+
+Script done on Tue 09 Apr 2019 11:18:17 AM PDT
